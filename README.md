@@ -1,10 +1,10 @@
 # Anggota Kelompok 10 :
-- Justin Salim (535220017)
-- Ivander (535220020)
-- Richard Souwiko (535220042)
-- Jason Chainara Putra (535220045)
-- Ruben Tobia Chaiyadi (535220051)
-- Tigo Ilhami Fasyah (535220235)
+- <b> Justin Salim </b> (535220017)
+- <b> Ivander </b> (535220020)
+- <b> Richard Souwiko </b> (535220042)
+- <b> Jason Chainara Putra </b> (535220045)
+- <b> Ruben Tobia Chaiyadi </b> (535220051)
+- <b> Tigo Ilhami Fasyah </b> (535220235)
 
 # Dooid
 #### Dive into the Cashless Revolution
